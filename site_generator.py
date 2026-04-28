@@ -14,6 +14,9 @@ from blog_engine.site_generator import SiteGenerator as BaseSiteGenerator  # noq
 class ManusSiteGenerator(BaseSiteGenerator):
     """Manus AI特化のサイト生成クラス"""
 
+    # Wave34a: home_link拡張のため記事/ページを30件に拡大
+    ARTICLES_PER_PAGE = 30
+
     def __init__(self, config):
         super().__init__(config)
 
