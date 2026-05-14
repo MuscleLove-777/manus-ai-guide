@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://musclelove-777.github.io/manus-ai-guide/sitemap.xml
