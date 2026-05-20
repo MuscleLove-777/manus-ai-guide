@@ -73,7 +73,8 @@
     {
       "keyword": "Manus AI ファイル編集の自動化ガイド",
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "done_at": "2026-05-20T10:04:20.596264"
     },
     {
       "keyword": "Manus AI アプリ操作の自動化テクニック",
